@@ -1,2 +1,2 @@
 # mutable
-Ottava mutable wrapper for ArrayBuffer.
+Ottava mutable wrapper class for ArrayBuffer.
