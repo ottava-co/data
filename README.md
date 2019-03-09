@@ -1,2 +1,2 @@
-# data
-Ottava ArrayBuffer extension utility class.
+# mutable
+Ottava mutable wrapper for ArrayBuffer.
