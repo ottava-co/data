@@ -1,0 +1,23 @@
+{
+  "name": "ottava-mutable",
+  "version": "1.0.0",
+  "description": "Ottava mutable wrapper class for ArrayBuffer.",
+  "main": "src/Mutable.js",
+  "dependencies": {
+    "ottava-debug": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ottava-co/mutable.git"
+  },
+  "author": "Fabio Ilian Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ottava-co/mutable/issues"
+  },
+  "homepage": "https://github.com/ottava-co/mutable#readme"
+}
