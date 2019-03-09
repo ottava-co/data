@@ -4,7 +4,7 @@
   "description": "Ottava mutable wrapper class for ArrayBuffer.",
   "main": "src/index.js",
   "dependencies": {
-    "ottava-debug": "^1.0.2"
+    "ottava-debug": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
