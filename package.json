@@ -2,9 +2,9 @@
   "name": "ottava-mutable",
   "version": "1.0.0",
   "description": "Ottava mutable wrapper class for ArrayBuffer.",
-  "main": "src/Mutable.js",
+  "main": "src/index.js",
   "dependencies": {
-    "ottava-debug": "^1.0.1"
+    "ottava-debug": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {

@@ -214,14 +214,14 @@ export default class Mutable {
     Debug.valid(data, Mutable);
     if(data.length !== this.length) Bug.throw(
       'Mutable.xor',
-      'Invalid xor data.'.
+      'Invalid xor data.',
       data
     );
     var ba = data.toArray(),
         bytes = this.toArray(),
         xor = new Array(this.length);
     for(var i = 0; i < this.length; i++) {
-        xor[i] = bytes[i] ^ ba[i];
+      xor[i] = bytes[i] ^ ba[i];
     }
     return new Mutable(xor);
   }
